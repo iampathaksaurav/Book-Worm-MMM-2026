@@ -1,5 +1,4 @@
 # Book-Worm-MMM-2026
-# Book Worm Marketing Mix Modeling (MMM)
 
 ## Objective
 Determine channel contribution and optimize future marketing budget.
