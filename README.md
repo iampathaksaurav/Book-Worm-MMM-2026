@@ -46,3 +46,6 @@ Model ID: 2_980_1
 ## Next Steps
 - Budget Allocation
 - Scenario Planning
+## Final Model
+<img width="6800" height="7600" alt="2_980_1" src="https://github.com/user-attachments/assets/1ac6ae03-08f9-4f99-95d3-72a93026e48e" />
+
