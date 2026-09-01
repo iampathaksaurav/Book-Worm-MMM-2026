@@ -47,4 +47,6 @@ Model ID: 2_980_1
 - Scenario Planning
 ## Final Model
 <img width="6800" height="7600" alt="2_980_1" src="https://github.com/user-attachments/assets/1ac6ae03-08f9-4f99-95d3-72a93026e48e" />
+<img width="4200" height="5600" alt="2_980_1_reallocated_best_cpa" src="https://github.com/user-attachments/assets/03c54843-8e54-4e95-926b-f9a78017b659" />
+
 
